@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tony Starck  Inventor/Iron Man @notwitter
 
 # THANKS
 
