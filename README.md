@@ -14,3 +14,7 @@ And git commands
 Ici on déploie môssieur ! 
 
 ## How to contribute
+
+### Copyright 
+
+2018 Tony Stark 
