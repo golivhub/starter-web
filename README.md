@@ -2,7 +2,10 @@
 
 This repository is for showing how Git and GitHub work
 MORE TEXT .
-AND AGANIN !
+AND AGAIN !
+
+Myfeature brach rules !!!
+
 ## Introducing
 This is an introduciton to commands for a web project.
 
