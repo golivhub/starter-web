@@ -15,6 +15,8 @@ Ici on déploie môssieur !
 
 ## How to contribute
 
+Fork it, change it, Pull request it ! 
+
 ### Copyright 
 
 2018 Tony Stark 
